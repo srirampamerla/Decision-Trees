@@ -35,4 +35,5 @@ Calculate for all the features. Take the lowest gini index from weighted avg as 
 
 
 If the data set is less features we can use entropy& gain-- Takes more time
+
 If the data set is more features we can use gini index
